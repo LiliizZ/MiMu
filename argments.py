@@ -6,7 +6,7 @@ def parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--logging', type=str, default='kd')
     parser.add_argument('--vit_path', type=str, default='/vit-large-patch16-224-in21k')
-    parser.add_argument('--train_dir', type=str, default="i9/i9_original/train_watermark_m")
+    parser.add_argument('--train_dir', type=str, default="data/i9/i9_original/train_watermark_m")
     parser.add_argument('--logit_path', type=str, default="./results/90_train_output.csv")
     parser.add_argument('--att_path', type=str, default="./attention/sorted_attention_i9_output.txt")
     parser.add_argument('--seed', type=int, default=2024)
