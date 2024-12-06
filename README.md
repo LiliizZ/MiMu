@@ -1,5 +1,13 @@
 # MiMu
 
+## File Structure
+    -MiMu
+        -data
+        -model_outputs
+        -logs
+        -attention
+        -results
+        ...
 
 # Dataset
 We use datasets as follows:
