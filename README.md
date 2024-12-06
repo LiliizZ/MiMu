@@ -10,4 +10,4 @@ We use datasets as follows:
 
 - Imagenet-9 and Mixed-Same, Mixed-Rand (OOD) [website](https://github.com/MadryLab/backgrounds_challenge)
 
-- IN-9-W and IN-200-W can be obtained by 
+- IN-9-W and IN-200-W can be obtained by watermark.py
