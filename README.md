@@ -23,11 +23,8 @@ We use datasets as follows:
 
 ## Quick start
 
-- source model with self-calibration strategy python3 main_source.py
+- source model with self-calibration strategy: python3 main_source.py
 
-- target model with self-improvement strategy python3 main.py
+- target model with self-improvement strategy: python3 main.py
 
 
-## Uploaded visulization study of Figure 6
-
-It can be seen in case_new.pdf
